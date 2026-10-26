@@ -23,24 +23,24 @@ MSc Computer Science with AI (Keele University)
 ## Projects
 
 ### OpenRead
-🛠️ Free, open-source reading support for Safari and Chrome on Mac  
-🔊 Local voices, word highlighting, document imports and optional local AI  
-🔗 [View Project](https://github.com/ahmednajaf/openread) · [Demo & Installation](https://getopenread.vercel.app)
+Free, open-source reading support for Safari and Chrome on Mac  
+Local voices, word highlighting, document imports and optional local AI  
+[View Project](https://github.com/ahmednajaf/openread) · [Demo & Installation](https://getopenread.vercel.app)
 
 ### Vero
-📊 Sustainability intelligence for company reports and peer comparisons  
-🔎 Source-linked evidence, report analysis and exportable findings  
-🔗 [View Project](https://github.com/ahmednajaf/vero)
+Sustainability intelligence for company reports and peer comparisons  
+Source-linked evidence, report analysis and exportable findings  
+[View Project](https://github.com/ahmednajaf/vero)
 
 ### Well Ahead
-🛠️ Collaborative preventive-health hackathon prototype  
-🎙️ Voice-led check-ins, interactive 3D anatomy and personalised planning  
-🔗 [View Project](https://github.com/ahmednajaf/wellahead)
+Collaborative preventive-health hackathon prototype  
+Voice-led check-ins, interactive 3D anatomy and personalised planning  
+[View Project](https://github.com/ahmednajaf/wellahead)
 
 ### Carbonly *(MSc Project)*
-🛠️ Activity-based carbon footprint tracker built with React, Tailwind and Firebase  
-🤖 Emissions dashboards and AI-assisted sustainability tips  
-🔗 [View Project](https://github.com/ahmednajaf/Carbonly) · [Live Demo](https://trackcarbonly.vercel.app/)
+Activity-based carbon footprint tracker built with React, Tailwind and Firebase  
+Emissions dashboards and AI-assisted sustainability tips  
+[View Project](https://github.com/ahmednajaf/Carbonly) · [Live Demo](https://trackcarbonly.vercel.app/)
 
 ---
 
