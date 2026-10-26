@@ -1,11 +1,11 @@
 ![Coding on a retro computer](https://media1.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif)
 
-# 👋 Hi, I’m Ahmed Najaf
-🎓 MSc Computer Science with AI (Keele University)
+# Hi, I’m Ahmed Najaf
+MSc Computer Science with AI (Keele University)
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -20,36 +20,36 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 📖 OpenRead
+### OpenRead
 🛠️ Free, open-source reading support for Safari and Chrome on Mac  
 🔊 Local voices, word highlighting, document imports and optional local AI  
 🔗 [View Project](https://github.com/ahmednajaf/openread) · [Demo & Installation](https://getopenread.vercel.app)
 
-### 🌱 Vero
+### Vero
 📊 Sustainability intelligence for company reports and peer comparisons  
 🔎 Source-linked evidence, report analysis and exportable findings  
 🔗 [View Project](https://github.com/ahmednajaf/vero)
 
-### 🩺 Well Ahead
+### Well Ahead
 🛠️ Collaborative preventive-health hackathon prototype  
 🎙️ Voice-led check-ins, interactive 3D anatomy and personalised planning  
 🔗 [View Project](https://github.com/ahmednajaf/wellahead)
 
-### 🌍 Carbonly *(MSc Project)*
+### Carbonly *(MSc Project)*
 🛠️ Activity-based carbon footprint tracker built with React, Tailwind and Firebase  
 🤖 Emissions dashboards and AI-assisted sustainability tips  
 🔗 [View Project](https://github.com/ahmednajaf/Carbonly) · [Live Demo](https://trackcarbonly.vercel.app/)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednajaf&layout=compact&theme=radical)
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
-📧 ahmednajaf261@gmail.com  
-🌐 [LinkedIn](https://linkedin.com/in/ahmednajaf)
+ahmednajaf261@gmail.com  
+[LinkedIn](https://linkedin.com/in/ahmednajaf)
