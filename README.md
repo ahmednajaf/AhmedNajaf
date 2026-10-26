@@ -1,32 +1,41 @@
-![Ahmed Najaf — software, AI and tools for everyday problems](assets/profile-header.svg)
+![Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjI4Nnk5bGJvNnZwcDhsZ2QyaXZ5OW84Zzh5d3RmZzR5bnc4dGRveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
-I build web apps and AI tools, with projects spanning accessibility, sustainability and preventive health.
-
-**MSc Computer Science with AI · Keele University**
-
-[Website](https://ahmednajaf.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ahmednajaf/) · [Email](mailto:ahmednajaf261@gmail.com)
+# 👋 Hi, I’m Ahmed Najaf
+🎓 MSc Computer Science with AI (Keele University)
 
 ---
 
-## Selected work
-
-| Project | What I'm building |
-| :--- | :--- |
-| **[OpenRead](https://github.com/ahmednajaf/openread)** | An open-source reading companion for Safari and Chrome on Mac, with local voices, word highlighting and document support. [Demo & installation →](https://getopenread.vercel.app) |
-| **[Vero](https://github.com/ahmednajaf/vero)** | Sustainability intelligence that brings company reports, peer comparisons and source-linked evidence into one workspace. |
-| **[Well Ahead](https://github.com/ahmednajaf/wellahead)** | A collaborative hackathon prototype for preventive health, combining voice-led check-ins, interactive anatomy and personalised planning. |
-| **[Carbonly](https://github.com/ahmednajaf/Carbonly)** | My MSc project: an activity-based carbon footprint tracker with emissions dashboards and AI-assisted sustainability tips. [Live demo →](https://trackcarbonly.vercel.app/) |
-
-## Tools I work with
-
-**Languages** &nbsp; Python · JavaScript · TypeScript<br>
-**Web** &nbsp; React · Node.js · Express · Tailwind CSS<br>
-**Data & tooling** &nbsp; PostgreSQL · Firebase · Git
-
-## What connects these projects
-
-I'm interested in making complex information easier to use: helping people read, understand sustainability evidence, or navigate a health plan. I enjoy working across the interface, backend and AI features to turn that into a usable product.
+## 🔧 Tech Stack
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-Have feedback on a project or an idea to collaborate on? [Get in touch](mailto:ahmednajaf261@gmail.com).
+## 🚀 Projects
+
+### 🧠 Credit Card Fraud Detection  
+📌 Machine Learning model using Random Forest, SMOTE & GridSearchCV  
+📊 Precision, recall, F1 Score with visualized confusion matrix  
+🔗 [View Project](https://github.com/YOUR_USERNAME/credit-card-fraud-detection)
+
+### 🌍 Personal Carbon Footprint Estimator *(MSc Project)*  
+🛠️ Full-stack app using React, Tailwind, Firebase  
+🤖 Integrated with DeepSeek R1 via OpenRouter for AI suggestions  
+🔗 [View Project](https://github.com/AhmedNajaf/Carbonly)
+
+---
+
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednajaf&layout=compact&theme=radical)
+
+---
+
+## 📫 Contact Me
+
+📧 ahmednajaf261@gmail.com  
+🌐 [LinkedIn](https://linkedin.com/in/ahmednajaf)
